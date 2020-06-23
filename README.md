@@ -2,7 +2,7 @@
 Crud de Alunos - Laravel
 
 Procedimentos:
-1 - Instale o composer.https://getcomposer.org/
+1 - Instale o composer.https://getcomposer.org/ <br/>
 
 2 -Extraia o rar do crud para a pasta que deseja;
 3 - Execute o arquivo banco.sql no mysql;
